@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env/
+.envrc
+*.egg-info/
+dist/
+build/
+*.log
+
+# Pipenv
+Pipfile.lock
+
+# Playwright
+playwright-report/
+output.html
+screenshot*.png
+
+# VSCode
+.vscode/
+
+# OS
